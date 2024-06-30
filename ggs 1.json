@@ -1,0 +1,1430 @@
+{
+  "version": "v1.0",
+  "event": {
+    "name": "Ex Clash Peru: GG Strive",
+    "date": "2023-09-24",
+    "gameName": "Guilty Gear: Strive",
+    "ruleset": "",
+    "originURL": "https://start.gg/tournament/ex-clash-peru-gg-strive/event/ex-clash-gg-strive",
+    "numberEntrants": 23,
+    "phases": [
+      {
+        "phaseID": "Bracket",
+        "phaseStructure": "DOUBLE_ELIMINATION"
+      }
+    ]
+  },
+  "sets": [
+    {
+      "setID": "65535549",
+      "entrant1ID": "14372734",
+      "entrant2ID": "14372856",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "dq",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 1",
+      "games": [],
+      "entrant1NextSetID": "65535564"
+    },
+    {
+      "setID": "65535553",
+      "entrant1ID": "14365982",
+      "entrant2ID": "14373605",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 1,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 1",
+      "games": [
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 4
+        }
+      ],
+      "entrant1NextSetID": "65535566"
+    },
+    {
+      "setID": "65535555",
+      "entrant1ID": "14365466",
+      "entrant2ID": "14373798",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 1",
+      "games": [
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant1NextSetID": "65535567"
+    },
+    {
+      "setID": "65535557",
+      "entrant1ID": "14371746",
+      "entrant2ID": "14373025",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 1",
+      "games": [
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant1NextSetID": "65535568"
+    },
+    {
+      "setID": "65535559",
+      "entrant1ID": "14359143",
+      "entrant2ID": "14374289",
+      "status": "completed",
+      "entrant1Result": "dq",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 1",
+      "games": [],
+      "entrant2NextSetID": "65535569"
+    },
+    {
+      "setID": "65535561",
+      "entrant1ID": "14365989",
+      "entrant2ID": "14373593",
+      "status": "completed",
+      "entrant1Result": "dq",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 1",
+      "games": [],
+      "entrant2NextSetID": "65535570"
+    },
+    {
+      "setID": "65535563",
+      "entrant1ID": "14363962",
+      "entrant2ID": "14374138",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 1,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 1",
+      "games": [],
+      "entrant2NextSetID": "65535571"
+    },
+    {
+      "setID": "65535579",
+      "entrant1ID": "14332667",
+      "entrant2ID": "14339100",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 1,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Grand Final",
+      "entrant1PrevSetID": "65535578",
+      "entrant2PrevSetID": "65535642",
+      "games": []
+    },
+    {
+      "setID": "65535578",
+      "entrant1ID": "14365982",
+      "entrant2ID": "14332667",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Final",
+      "entrant1PrevSetID": "65535576",
+      "entrant2PrevSetID": "65535577",
+      "games": [],
+      "entrant2NextSetID": "65535579",
+      "entrant1NextSetID": "65535642"
+    },
+    {
+      "setID": "65535642",
+      "entrant1ID": "14365982",
+      "entrant2ID": "14339100",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Final",
+      "entrant1PrevSetID": "65535578",
+      "entrant2PrevSetID": "65535641",
+      "games": [],
+      "entrant2NextSetID": "65535579"
+    },
+    {
+      "setID": "65535641",
+      "entrant1ID": "14374289",
+      "entrant2ID": "14339100",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Semi-Final",
+      "entrant1PrevSetID": "65535639",
+      "entrant2PrevSetID": "65535640",
+      "games": [],
+      "entrant2NextSetID": "65535642"
+    },
+    {
+      "setID": "65535576",
+      "entrant1ID": "14349067",
+      "entrant2ID": "14365982",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Semi-Final",
+      "entrant1PrevSetID": "65535572",
+      "entrant2PrevSetID": "65535573",
+      "games": [],
+      "entrant2NextSetID": "65535578",
+      "entrant1NextSetID": "65535640"
+    },
+    {
+      "setID": "65535577",
+      "entrant1ID": "14374289",
+      "entrant2ID": "14332667",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Semi-Final",
+      "entrant1PrevSetID": "65535574",
+      "entrant2PrevSetID": "65535575",
+      "games": [],
+      "entrant2NextSetID": "65535578",
+      "entrant1NextSetID": "65535639"
+    },
+    {
+      "setID": "65535639",
+      "entrant1ID": "14374289",
+      "entrant2ID": "14373605",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 2,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Quarter-Final",
+      "entrant1PrevSetID": "65535577",
+      "entrant2PrevSetID": "65535637",
+      "games": [],
+      "entrant1NextSetID": "65535641"
+    },
+    {
+      "setID": "65535640",
+      "entrant1ID": "14349067",
+      "entrant2ID": "14339100",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 1,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Quarter-Final",
+      "entrant1PrevSetID": "65535576",
+      "entrant2PrevSetID": "65535638",
+      "games": [],
+      "entrant2NextSetID": "65535641"
+    },
+    {
+      "setID": "65535637",
+      "entrant1ID": "14340443",
+      "entrant2ID": "14373605",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 2,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 4",
+      "entrant1PrevSetID": "65535633",
+      "entrant2PrevSetID": "65535634",
+      "games": [],
+      "entrant2NextSetID": "65535639"
+    },
+    {
+      "setID": "65535638",
+      "entrant1ID": "14339100",
+      "entrant2ID": "14363962",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 1,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 4",
+      "entrant1PrevSetID": "65535635",
+      "entrant2PrevSetID": "65535636",
+      "games": [],
+      "entrant1NextSetID": "65535640"
+    },
+    {
+      "setID": "65535572",
+      "entrant1ID": "14332085",
+      "entrant2ID": "14349067",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Quarter-Final",
+      "entrant1PrevSetID": "65535564",
+      "entrant2PrevSetID": "65535565",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant2NextSetID": "65535576",
+      "entrant1NextSetID": "65535634"
+    },
+    {
+      "setID": "65535573",
+      "entrant1ID": "14365982",
+      "entrant2ID": "14365466",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 1,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Quarter-Final",
+      "entrant1PrevSetID": "65535566",
+      "entrant2PrevSetID": "65535567",
+      "games": [],
+      "entrant1NextSetID": "65535576",
+      "entrant2NextSetID": "65535633"
+    },
+    {
+      "setID": "65535574",
+      "entrant1ID": "14371746",
+      "entrant2ID": "14374289",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 1,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Quarter-Final",
+      "entrant1PrevSetID": "65535568",
+      "entrant2PrevSetID": "65535569",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 4
+        }
+      ],
+      "entrant2NextSetID": "65535577",
+      "entrant1NextSetID": "65535636"
+    },
+    {
+      "setID": "65535575",
+      "entrant1ID": "14332667",
+      "entrant2ID": "14374138",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Quarter-Final",
+      "entrant1PrevSetID": "65535570",
+      "entrant2PrevSetID": "65535571",
+      "games": [
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant1NextSetID": "65535577",
+      "entrant2NextSetID": "65535635"
+    },
+    {
+      "setID": "65535633",
+      "entrant1ID": "14365466",
+      "entrant2ID": "14340443",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 1,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 3",
+      "entrant1PrevSetID": "65535573",
+      "entrant2PrevSetID": "65535629",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 4
+        }
+      ],
+      "entrant2NextSetID": "65535637"
+    },
+    {
+      "setID": "65535634",
+      "entrant1ID": "14332085",
+      "entrant2ID": "14373605",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 3",
+      "entrant1PrevSetID": "65535572",
+      "entrant2PrevSetID": "65535630",
+      "games": [],
+      "entrant2NextSetID": "65535637"
+    },
+    {
+      "setID": "65535635",
+      "entrant1ID": "14374138",
+      "entrant2ID": "14339100",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 2,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 3",
+      "entrant1PrevSetID": "65535575",
+      "entrant2PrevSetID": "65535631",
+      "games": [],
+      "entrant2NextSetID": "65535638"
+    },
+    {
+      "setID": "65535636",
+      "entrant1ID": "14371746",
+      "entrant2ID": "14363962",
+      "status": "completed",
+      "entrant1Result": "dq",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 3",
+      "entrant1PrevSetID": "65535574",
+      "entrant2PrevSetID": "65535632",
+      "games": [],
+      "entrant2NextSetID": "65535638"
+    },
+    {
+      "setID": "65535629",
+      "entrant1ID": "14340443",
+      "entrant2ID": "14373593",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 2",
+      "entrant1PrevSetID": "65535621",
+      "entrant2PrevSetID": "65535622",
+      "games": [
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant1NextSetID": "65535633"
+    },
+    {
+      "setID": "65535630",
+      "entrant1ID": "14373605",
+      "entrant2ID": "14373798",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 2,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 2",
+      "entrant1PrevSetID": "65535623",
+      "entrant2PrevSetID": "65535624",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 4
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 5
+        }
+      ],
+      "entrant1NextSetID": "65535634"
+    },
+    {
+      "setID": "65535631",
+      "entrant1ID": "14373025",
+      "entrant2ID": "14339100",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 2",
+      "entrant1PrevSetID": "65535625",
+      "entrant2PrevSetID": "65535626",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant2NextSetID": "65535635"
+    },
+    {
+      "setID": "65535632",
+      "entrant1ID": "14346729",
+      "entrant2ID": "14363962",
+      "status": "completed",
+      "entrant1Result": "dq",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 2",
+      "entrant1PrevSetID": "65535627",
+      "entrant2PrevSetID": "65535628",
+      "games": [],
+      "entrant2NextSetID": "65535636"
+    },
+    {
+      "setID": "65535564",
+      "entrant1ID": "14332085",
+      "entrant2ID": "14372734",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "dq",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535548",
+      "entrant2PrevSetID": "65535549",
+      "games": [],
+      "entrant1NextSetID": "65535572",
+      "entrant2NextSetID": "65535628"
+    },
+    {
+      "setID": "65535565",
+      "entrant1ID": "14346729",
+      "entrant2ID": "14349067",
+      "status": "completed",
+      "entrant1Result": "dq",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535550",
+      "entrant2PrevSetID": "65535551",
+      "games": [],
+      "entrant2NextSetID": "65535572",
+      "entrant1NextSetID": "65535627"
+    },
+    {
+      "setID": "65535566",
+      "entrant1ID": "14339100",
+      "entrant2ID": "14365982",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 1,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535552",
+      "entrant2PrevSetID": "65535553",
+      "games": [
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 4
+        }
+      ],
+      "entrant2NextSetID": "65535573",
+      "entrant1NextSetID": "65535626"
+    },
+    {
+      "setID": "65535567",
+      "entrant1ID": "14340342",
+      "entrant2ID": "14365466",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535554",
+      "entrant2PrevSetID": "65535555",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant2NextSetID": "65535573",
+      "entrant1NextSetID": "65535625"
+    },
+    {
+      "setID": "65535568",
+      "entrant1ID": "14332127",
+      "entrant2ID": "14371746",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535556",
+      "entrant2PrevSetID": "65535557",
+      "games": [],
+      "entrant2NextSetID": "65535574",
+      "entrant1NextSetID": "65535624"
+    },
+    {
+      "setID": "65535569",
+      "entrant1ID": "14346724",
+      "entrant2ID": "14374289",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535558",
+      "entrant2PrevSetID": "65535559",
+      "games": [],
+      "entrant2NextSetID": "65535574",
+      "entrant1NextSetID": "65535623"
+    },
+    {
+      "setID": "65535570",
+      "entrant1ID": "14332667",
+      "entrant2ID": "14373593",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "lose",
+      "entrant1Score": 3,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535560",
+      "entrant2PrevSetID": "65535561",
+      "games": [
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "win",
+          "entrant2Result": "lose",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant1NextSetID": "65535575"
+    },
+    {
+      "setID": "65535571",
+      "entrant1ID": "14340443",
+      "entrant2ID": "14374138",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Winners Round 2",
+      "entrant1PrevSetID": "65535562",
+      "entrant2PrevSetID": "65535563",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant2NextSetID": "65535575",
+      "entrant1NextSetID": "65535621"
+    },
+    {
+      "setID": "65535624",
+      "entrant1ID": "14332127",
+      "entrant2ID": "14373798",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 1",
+      "entrant1PrevSetID": "65535568",
+      "entrant2PrevSetID": "65535616",
+      "games": [],
+      "entrant2NextSetID": "65535630"
+    },
+    {
+      "setID": "65535625",
+      "entrant1ID": "14340342",
+      "entrant2ID": "14373025",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 1",
+      "entrant1PrevSetID": "65535567",
+      "entrant2PrevSetID": "65535617",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant2NextSetID": "65535631"
+    },
+    {
+      "setID": "65535626",
+      "entrant1ID": "14339100",
+      "entrant2ID": "14359143",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "dq",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 1",
+      "entrant1PrevSetID": "65535566",
+      "entrant2PrevSetID": "65535618",
+      "games": [],
+      "entrant1NextSetID": "65535631"
+    },
+    {
+      "setID": "65535627",
+      "entrant1ID": "14346729",
+      "entrant2ID": "14365989",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "dq",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 1",
+      "entrant1PrevSetID": "65535565",
+      "entrant2PrevSetID": "65535619",
+      "games": [],
+      "entrant1NextSetID": "65535632"
+    },
+    {
+      "setID": "65535628",
+      "entrant1ID": "14372734",
+      "entrant2ID": "14363962",
+      "status": "completed",
+      "entrant1Result": "dq",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 1",
+      "entrant1PrevSetID": "65535564",
+      "entrant2PrevSetID": "65535620",
+      "games": [],
+      "entrant2NextSetID": "65535632"
+    },
+    {
+      "setID": "65535621",
+      "entrant1ID": "14340443",
+      "entrant2ID": "14372856",
+      "status": "completed",
+      "entrant1Result": "win",
+      "entrant2Result": "dq",
+      "entrant1Score": 0,
+      "entrant2Score": 0,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 1",
+      "entrant1PrevSetID": "65535571",
+      "entrant2PrevSetID": "65535613",
+      "games": [],
+      "entrant1NextSetID": "65535629"
+    },
+    {
+      "setID": "65535623",
+      "entrant1ID": "14346724",
+      "entrant2ID": "14373605",
+      "status": "completed",
+      "entrant1Result": "lose",
+      "entrant2Result": "win",
+      "entrant1Score": 0,
+      "entrant2Score": 3,
+      "setFormat": "bestOf5",
+      "phaseID": "Bracket",
+      "roundID": "Losers Round 1",
+      "entrant1PrevSetID": "65535569",
+      "entrant2PrevSetID": "65535615",
+      "games": [
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 1
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 2
+        },
+        {
+          "entrant1Result": "lose",
+          "entrant2Result": "win",
+          "stage": "",
+          "gameNumber": 3
+        }
+      ],
+      "entrant2NextSetID": "65535630"
+    }
+  ],
+  "entrants": [
+    {
+      "entrantID": "14374289",
+      "entrantTag": "CG | Dog",
+      "initialSeed": 23,
+      "finalPlacement": 4,
+      "personalInformation": [
+        {
+          "tag": "Dog",
+          "prefix": "CG",
+          "name": "",
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "entrantID": "14374138",
+      "entrantTag": "Kyu | ClemePF",
+      "initialSeed": 22,
+      "finalPlacement": 9,
+      "personalInformation": [
+        {
+          "tag": "ClemePF",
+          "prefix": "Kyu",
+          "name": "Clemente P.",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14373798",
+      "entrantTag": "Kyrura_5",
+      "initialSeed": 21,
+      "finalPlacement": 13,
+      "personalInformation": [
+        {
+          "tag": "Kyrura_5",
+          "prefix": "",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14373605",
+      "entrantTag": "Kai",
+      "initialSeed": 20,
+      "finalPlacement": 5,
+      "personalInformation": [
+        {
+          "tag": "Kai",
+          "prefix": "",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14373593",
+      "entrantTag": "VicheITG",
+      "initialSeed": 19,
+      "finalPlacement": 13,
+      "personalInformation": [
+        {
+          "tag": "VicheITG",
+          "prefix": "",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14373025",
+      "entrantTag": "Forza",
+      "initialSeed": 18,
+      "finalPlacement": 13,
+      "personalInformation": [
+        {
+          "tag": "Forza",
+          "prefix": "",
+          "name": "",
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "entrantID": "14372856",
+      "entrantTag": "Krendo",
+      "initialSeed": 17,
+      "finalPlacement": 17,
+      "personalInformation": [
+        {
+          "tag": "Krendo",
+          "prefix": "",
+          "name": "Alexander Solis",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14372734",
+      "entrantTag": "GGA | | Agma",
+      "initialSeed": 16,
+      "finalPlacement": 17,
+      "personalInformation": [
+        {
+          "tag": "Agma",
+          "prefix": "GGA |",
+          "name": "",
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "entrantID": "14371746",
+      "entrantTag": "Eñe",
+      "initialSeed": 15,
+      "finalPlacement": 9,
+      "personalInformation": [
+        {
+          "tag": "Eñe",
+          "prefix": "",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14365989",
+      "entrantTag": "TEW | Kbzon",
+      "initialSeed": 14,
+      "finalPlacement": 17,
+      "personalInformation": [
+        {
+          "tag": "Kbzon",
+          "prefix": "TEW",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14365982",
+      "entrantTag": "Kyu | Booshy",
+      "initialSeed": 13,
+      "finalPlacement": 3,
+      "personalInformation": [
+        {
+          "tag": "Booshy",
+          "prefix": "Kyu",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14365466",
+      "entrantTag": "CG | Nabrud",
+      "initialSeed": 12,
+      "finalPlacement": 9,
+      "personalInformation": [
+        {
+          "tag": "Nabrud",
+          "prefix": "CG",
+          "name": "",
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "entrantID": "14363962",
+      "entrantTag": "Kyu | smol",
+      "initialSeed": 11,
+      "finalPlacement": 7,
+      "personalInformation": [
+        {
+          "tag": "smol",
+          "prefix": "Kyu",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14359143",
+      "entrantTag": "chummi",
+      "initialSeed": 10,
+      "finalPlacement": 17,
+      "personalInformation": [
+        {
+          "tag": "chummi",
+          "prefix": "",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14349067",
+      "entrantTag": "BOKITA",
+      "initialSeed": 9,
+      "finalPlacement": 5,
+      "personalInformation": [
+        {
+          "tag": "BOKITA",
+          "prefix": "",
+          "name": "",
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "entrantID": "14346729",
+      "entrantTag": "Shike/yike",
+      "initialSeed": 8,
+      "finalPlacement": 13,
+      "personalInformation": [
+        {
+          "tag": "Shike/yike",
+          "prefix": "",
+          "name": "",
+          "country": "Uruguay"
+        }
+      ]
+    },
+    {
+      "entrantID": "14346724",
+      "entrantTag": "FC! | ShoTz",
+      "initialSeed": 7,
+      "finalPlacement": 17,
+      "personalInformation": [
+        {
+          "tag": "ShoTz",
+          "prefix": "FC!",
+          "name": "",
+          "country": "Peru"
+        }
+      ]
+    },
+    {
+      "entrantID": "14340443",
+      "entrantTag": "WG | Kesaca",
+      "initialSeed": 6,
+      "finalPlacement": 7,
+      "personalInformation": [
+        {
+          "tag": "Kesaca",
+          "prefix": "WG",
+          "name": "",
+          "country": "Peru"
+        }
+      ]
+    },
+    {
+      "entrantID": "14340342",
+      "entrantTag": "FC! | Anicletus",
+      "initialSeed": 5,
+      "finalPlacement": 17,
+      "personalInformation": [
+        {
+          "tag": "Anicletus",
+          "prefix": "FC!",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14339100",
+      "entrantTag": "KYU | Cloud",
+      "initialSeed": 4,
+      "finalPlacement": 2,
+      "personalInformation": [
+        {
+          "tag": "Cloud",
+          "prefix": "KYU",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14332667",
+      "entrantTag": "Dentran",
+      "initialSeed": 3,
+      "finalPlacement": 1,
+      "personalInformation": [
+        {
+          "tag": "Dentran",
+          "prefix": "",
+          "name": "",
+          "country": "Peru"
+        }
+      ]
+    },
+    {
+      "entrantID": "14332127",
+      "entrantTag": "Ahiru Who?",
+      "initialSeed": 2,
+      "finalPlacement": 17,
+      "personalInformation": [
+        {
+          "tag": "Ahiru Who?",
+          "prefix": "",
+          "name": "",
+          "country": "Chile"
+        }
+      ]
+    },
+    {
+      "entrantID": "14332085",
+      "entrantTag": "maxler5795",
+      "initialSeed": 1,
+      "finalPlacement": 9,
+      "personalInformation": [
+        {
+          "tag": "maxler5795",
+          "prefix": "",
+          "name": "",
+          "country": "Uruguay"
+        }
+      ]
+    }
+  ]
+}
